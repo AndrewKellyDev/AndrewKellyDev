@@ -2,11 +2,11 @@
 
 ## I'm a self taught Software Engineer!
 <br />
-- I'm currently working on my front end development skills.
-- I'm looking to work on more open source projects.
-- 2021 Goals: Leave my current job working in hospitality and become a Software Engineer.
-              Move city and get move into my own home.
-              Learn as much as I can.
+- I'm currently working on my front end development skills.<br />
+- I'm looking to work on more open source projects.<br />
+- 2021 Goals: Leave my current job working in hospitality and become a Software Engineer.<br />
+              Move city and get move into my own home.<br />
+              Learn as much as I can.<br />
 
 <br />
 
